@@ -1,4 +1,4 @@
-# Data Analysis? Data Visualizaion? Here's my takes
+# The Future of Data? Here's my takes
 
 Hello everyone, Rajiv Chandra here. Today, we will explore the world of AI-driven data visualization and introduce you to an exciting platforms. We will also discuss how it compares to traditional data visualization tools like Tableau and the benefits it offers to businesses of all sizes.
 
