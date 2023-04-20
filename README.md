@@ -1,29 +1,103 @@
-# The Future of Data? Here's my takes
+# awesome-generative-ai
+A curated list of all the Awesome Generative AI Resources I encountered
 
-Hello everyone, Rajiv Chandra here. Today, we will explore the world of AI-driven data visualization and introduce you to an exciting platforms. We will also discuss how it compares to traditional data visualization tools like Tableau and the benefits it offers to businesses of all sizes.
+# Awesome Generative AI Resources
 
-### Traditional Data Visualization Tools vs Open Source Data Analyrtics tools
+A curated list of resources, tools, libraries, and applications related to generative AI models.
 
-While Tableau is a popular data visualization tool, there is a growing demand for [open source tableau alternatives](https://docs.kanaries.net/articles/tableau-open-source-alternatives) like [RATH](https://kanaries.net) due to cost and customization concerns. Let's compare RATH to traditional tools:
+## Table of Contents
 
-1. **AI-driven data analytics:** Open Source Data Analytics Tools offers automated data visualization, saving time and effort while providing accurate and insightful visualizations.
-2. **Flexible charting options:** Data Science Tools provides a broader range of visualization options compared to Tableau's pie charts and other chart types.
-3. **Open-source nature:** The open source data visualization dashboard of RATH allows for high customization, enabling users to tailor the platform to their specific needs.
+- [Model Libraries](#model-libraries)
+- [Stable Diffusion Resources](#stable-diffusion-resources)
+- [Video](#video)
+- [Audio](#audio)
+  - [Speech](#speech)
+  - [Music](#music)
+- [Other](#other)
+- [More Lists](#more-lists)
+- [Autonomous Agents](#autonomous-agents)
 
-### Why Small Businesses Should Consider Open Source Data Analytics tools
+## Model Libraries
 
-RATH is a great choice for [small business dashboard software](https://docs.kanaries.net/articles/top-dashboard-software) due to its powerful analytics, visualization tools, and accessibility for users of all skill levels. Its open-source nature and AI-driven features make it a cost-effective and scalable dashboard solution for small businesses.
+- [Civitai](https://civitai.com/) - Community driven AI model sharing tool.
+- [Stable Diffusion Models](https://rentry.org/sdmodels) - A comprehensive list of Stable Diffusion checkpoints on rentry.org.
 
-Among the options availabe, RATH is an innovative data analysis and visualization platform that leverages AI to provide automated data visualization and analytics. This powerful platform enables users to create visualizations, build dashboards, and generate natural language insights from their data with ease.
+## Stable Diffusion Resources
 
-## Final Thoughts
+- [Stable Horde](https://stablehorde.net/) - A crowdsourced distributed cluster of Stable Diffusion workers.
+- [DiffusionDB](https://diffusiondb.com/) - A list of all public apps, developer tools, guides and plugins for Stable Diffusion. [Airtable version](https://airtable.com/shr0HlBwbw3nZ8Ht3/tblxOCylXV8ynh7ti).
+- [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
+- [Stableboost](https://stableboost.ai/) - Stableboost is a Stable Diffusion WebUI that lets you quickly generate a lot of images so you can find the perfect ones.
+- [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
 
-As the demand for innovative data visualization and analysis solutions grows, platforms like RATH offer a powerful alternative to traditional tools like Tableau. With its AI-driven capabilities, open-source nature, and suitability for small businesses, RATH has the potential to reshape the data analytics and visualization landscape. Give it a try and experience the benefits of AI-driven data visualization for yourself.
+## Video
 
+- [RunwayML](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
+- [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
+- [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
+- [Hour One](https://hourone.ai/) - Turn text into video, featuring virtual presenters, automatically.
+- [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
 
-## About Me
+## Audio
 
-![About Me](https://chandra704.files.wordpress.com/2023/04/00000-3993695079-1.png?w=512)
+### Speech
 
-I am Rajiv Chandra, a data scientist with a PhD in the field. I have over 10 years of experience in the industry, and my expertise lies in the areas of machine learning, statistical analysis, and data visualization. I am passionate about exploring the potential of data to help businesses make informed decisions and am dedicated to providing customized solutions tailored to my clients’ specific needs.
+- [Resemble AI](https://www.resemble.ai/) - AI Voice Generator and Voice Cloning for Text to Speech.
+- [WellSaid](https://wellsaidlabs.com/) - Convert text to voice in real time.
+- [Play.ht](https://play.ht/) - AI Voice Generator. Generate realistic Text to Speech voice over online with AI. Convert text to audio.
+- [Coqui](https://coqui.ai/) - Generative AI for Voice.
+- [podcast.ai](https://podcast.ai/) - A podcast that is entirely generated by artificial intelligence, powered by Play.ht text-to-voice AI.
+- [VALL-E X](https://vallex-demo.github.io/) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
+
+### Music
+
+- [Harmonai](https://www.harmonai.org/) - We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
+- [Mubert](https://mubert.com/) - A royalty-free music ecosystem for content creators, brands and developers.
+
+-   [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
+
+## Other
+
+-   [Diagram](https://diagram.com/) - Magical new ways to design products.
+-   [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
+-   [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
+-   [Have I Been Trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
+-   [AI Dungeon](https://aidungeon.io/) - A text-based adventure-story game you direct (and star in) while the AI brings it to life.
+-   [Clickable](https://www.clickable.so/) - Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.
+-   [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
+-   [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
+-   [Brandmark](https://brandmark.io/) - AI-based logo design tool.
+-   [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
+-   [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
+-   [RATH](https://kanaries.net) - An awesome [Data Visualization](https://docs.kanaries.net/articles/data-visualization) tool that connects ChatGPT to your data. Get instant Charts with detailed visualizations by asking natural language questions.
+-   [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
+-   [Learn Prompting](https://learnprompting.org/) - A free, open source course on communicating with artificial intelligence.
+
+## More Lists
+
+-   [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
+-   [The Generative AI Application Landscape](https://twitter.com/sonyatweetybird/status/1584580362339962880) - An infographic that maps the generative AI ecosystem, by [Sonya Huang](https://twitter.com/sonyatweetybird) of Sequioa Capital.
+-   [Startups - @builtwithgenai](https://airtable.com/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT) - An Airtable list by [@builtwithgenai](https://twitter.com/builtwithgenai).
+-   [The Generative AI Index](https://airtable.com/shrH4REIgddv8SzUo/tbl5dsXdD1P859QLO) - An Airtable list by [Scale Venture Partners](https://www.scalevp.com/generative-ai).
+-   [Generative AI for Games](https://twitter.com/gwertz/status/1593268767269670912) - A market map of companies working on Generative AI for games, by [a16z](https://a16z.com/).
+-   [Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art) - A curated list of generative deep learning tools, works, models, etc. for artistic uses, by [@filipecalegario](https://.github.com/filipecalegario/).
+
+-   [GPT-3 Demo](https://gpt3demo.com/) - Showcase with GPT-3 examples, demos, apps, showcase, and NLP use-cases.
+-   [GPT-4 Demo](https://gpt4demo.com/) - GPT-4 apps and use-cases.
+-   [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - A Collection of Awesome Generative AI Applications.
+-   [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
+-   [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - List of molecular design using Generative AI and Deep Learning.
+
+### Lists on ChatGPT
+
+-   [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list of awesome tools, demos, docs for ChatGPT and GPT-3, by [@jordn](https://github.com/jordn).
+-   [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - A collection of prompt examples to be used with the ChatGPT model.
+-   [FlowGPT](https://flowgpt.com/) - Amplify your workflow with the best prompts.
+-   [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of useful data science prompts for ChatGPT.
+
+## Autonomous agents
+
+-   [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. Report about [AutoGPT](https://docs.kanaries.net/articles/autogpt-4) in Japanese.
+-   [babyagi](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
+-   [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
 
