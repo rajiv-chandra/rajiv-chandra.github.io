@@ -1,4 +1,59 @@
-music production more accessible and enjoyable for everyone.
+# Awesome Generative AI
+
+A handpicked list of all the Awesome Generative AI Resources I've come across
+
+# Awesome Generative AI Resources
+
+A curated compilation of resources, tools, libraries, and applications related to generative AI models.
+
+## Table of Contents
+
+- [Model Libraries](#model-libraries)
+- [Stable Diffusion Resources](#stable-diffusion-resources)
+- [Video](#video)
+- [Audio](#audio)
+  - [Speech](#speech)
+  - [Music](#music)
+- [Other](#other)
+- [More Lists](#more-lists)
+- [Autonomous Agents](#autonomous-agents)
+
+## Model Libraries
+
+- [Civitai](https://civitai.com/) - AI model sharing platform driven by the community.
+- [Stable Diffusion Models](https://rentry.org/sdmodels) - An extensive list of Stable Diffusion checkpoints on rentry.org.
+
+## Stable Diffusion Resources
+
+- [Stable Horde](https://stablehorde.net/) - A distributed cluster of Stable Diffusion workers, powered by crowdsourcing.
+- [DiffusionDB](https://diffusiondb.com/) - A comprehensive list of public apps, developer tools, guides, and plugins for Stable Diffusion. [Airtable version](https://airtable.com/shr0HlBwbw3nZ8Ht3/tblxOCylXV8ynh7ti).
+- [PublicPrompts](https://publicprompts.art/) - A selection of free prompts for Stable Diffusion.
+- [Stableboost](https://stableboost.ai/) - A web-based UI for Stable Diffusion that lets you quickly generate numerous images to find the perfect ones.
+- [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) - Online course materials on diffusion models by [@huggingface](https://github.com/huggingface).
+
+## Video
+
+- [RunwayML](https://runwayml.com/) - Advanced AI tools, real-time collaboration, precision editing, and more for next-generation content creation.
+- [Synthesia](https://www.synthesia.io/) - Generate videos from plain text in a matter of minutes.
+- [Rephrase AI](https://www.rephrase.ai/) - Drive engagement and business efficiencies with Rephrase's hyper-personalized video creation technology.
+- [Hour One](https://hourone.ai/) - Automatically turn text into video with virtual presenters.
+- [D-ID](https://www.d-id.com/) - Effortlessly create and interact with talking avatars.
+
+## Audio
+
+### Speech
+
+- [Resemble AI](https://www.resemble.ai/) - AI Voice Generator and Voice Cloning for Text to Speech.
+- [WellSaid](https://wellsaidlabs.com/) - Real-time text-to-voice conversion.
+- [Play.ht](https://play.ht/) - AI Voice Generator. Generate realistic Text to Speech voice over online with AI. Convert text to audio.
+- [Coqui](https://coqui.ai/) - Generative AI for Voice.
+- [podcast.ai](https://podcast.ai/) - An entirely AI-generated podcast, powered by Play.ht text-to-voice AI.
+- [VALL-E X](https://vallex-demo.github.io/) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
+
+### Music
+
+- [Harmonai](https://www.harmonai.org/) - A community-driven organization offering open-source generative audio tools for making
+ music production more accessible and enjoyable for everyone.
 
 -   [Mubert](https://mubert.com/) - A royalty-free music ecosystem for content creators, brands, and developers.
 -   [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research that generates high-fidelity music based on text descriptions.
